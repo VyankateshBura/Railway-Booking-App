@@ -1,0 +1,15 @@
+.signin{
+    margin-right: 2%;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: raleway,helveticaneue,helvetica neue,Helvetica,Arial,sans-serif;
+    color:white;
+    box-shadow:2px 1px 8px 5px whitesmoke;
+    /* border:2px solid rgb(241, 223, 187); */
+    background-color:#fb4869;
+}
+.signin:hover{
+    color:white;
+    box-shadow:2px 1px 8px 5px rgba(16, 1, 1, 0.156);
+
+}
