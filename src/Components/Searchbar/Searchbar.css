@@ -1,0 +1,11 @@
+hr {
+    width: 90%;
+    height: 10px;
+    background-color: #fb4869;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-width: 4px;
+    border-color: #fb4869;
+}

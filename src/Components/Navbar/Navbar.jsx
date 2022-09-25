@@ -14,10 +14,10 @@ const Navbar = () => {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div className="navbar-nav">
-            <a className="nav-link active" aria-current="page" href="#">Home</a>
+            <Link to="/" className='link'><a className="nav-link active" aria-current="page" href="#">Home</a></Link>
             <Link to="/trains" className='link'><a className="nav-link " href="#">Trains</a></Link>
             <a className="nav-link" href="#">Pricing</a>
-            <a className="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+            <a className="nav-link disabled" href="#" tabIndex="-1" aria-disabled="true">Disabled</a>
         </div>
         </div>
         <Authbutton buttonname ="Sign in"/>

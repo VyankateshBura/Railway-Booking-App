@@ -4,6 +4,7 @@ import Trains from './Pages/Trains'
 import Navbar from './Components/Navbar/Navbar'
 import Footer from "./Components/Footer/Footer"
 import {BrowserRouter,Routes,Route} from "react-router-dom"
+import Backtotop from './Components/Backtotop/Backtotop'
 const App = () => {
   return (
     <div>
